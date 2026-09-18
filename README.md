@@ -1,2 +1,0 @@
-# ntclock.github.io
-Hello
